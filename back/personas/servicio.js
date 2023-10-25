@@ -1,1 +1,2 @@
 const primera =()=>{}
+const segunda=()=>{}
